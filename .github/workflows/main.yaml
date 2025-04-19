@@ -27,4 +27,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: ${{ secrets.DOCKER_HUB_USERNAME }}/ex_3_1_DevOps_with_docker:latest
+        tags: ${{ secrets.DOCKER_HUB_USERNAME }}/ex_3_1_devops_with_docker:latest
